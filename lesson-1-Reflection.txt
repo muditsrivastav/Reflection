@@ -1,0 +1,4 @@
+git log --stat
+git diff commitid1 commitid2
+git clone url
+git checkout previousCommitId --- to checkout previous commit
